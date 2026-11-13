@@ -1,0 +1,7 @@
+C:\proyects\GenNov\PROYECTOS\P0601_WCF\Backend\P06R01_WCF_V1\P06R01_WCF_V1\bin\P06R01_WCF_V1.dll.config
+C:\proyects\GenNov\PROYECTOS\P0601_WCF\Backend\P06R01_WCF_V1\P06R01_WCF_V1\bin\P06R01_WCF_V1.dll
+C:\proyects\GenNov\PROYECTOS\P0601_WCF\Backend\P06R01_WCF_V1\P06R01_WCF_V1\bin\P06R01_WCF_V1.pdb
+C:\proyects\GenNov\PROYECTOS\P0601_WCF\Backend\P06R01_WCF_V1\P06R01_WCF_V1\obj\Debug\P06R01_WCF_V1.csproj.AssemblyReference.cache
+C:\proyects\GenNov\PROYECTOS\P0601_WCF\Backend\P06R01_WCF_V1\P06R01_WCF_V1\obj\Debug\P06R01_WCF_V1.csproj.CoreCompileInputs.cache
+C:\proyects\GenNov\PROYECTOS\P0601_WCF\Backend\P06R01_WCF_V1\P06R01_WCF_V1\obj\Debug\P06R01_WCF_V1.dll
+C:\proyects\GenNov\PROYECTOS\P0601_WCF\Backend\P06R01_WCF_V1\P06R01_WCF_V1\obj\Debug\P06R01_WCF_V1.pdb

@@ -1,0 +1,7 @@
+C:\proyects\GenNov\PROYECTOS\P0601_WCF\Backend\P06R01_WCF_V1\ClienteWCF\bin\Debug\ClienteWCF.exe.config
+C:\proyects\GenNov\PROYECTOS\P0601_WCF\Backend\P06R01_WCF_V1\ClienteWCF\bin\Debug\ClienteWCF.exe
+C:\proyects\GenNov\PROYECTOS\P0601_WCF\Backend\P06R01_WCF_V1\ClienteWCF\bin\Debug\ClienteWCF.pdb
+C:\proyects\GenNov\PROYECTOS\P0601_WCF\Backend\P06R01_WCF_V1\ClienteWCF\obj\Debug\ClienteWCF.csproj.AssemblyReference.cache
+C:\proyects\GenNov\PROYECTOS\P0601_WCF\Backend\P06R01_WCF_V1\ClienteWCF\obj\Debug\ClienteWCF.csproj.CoreCompileInputs.cache
+C:\proyects\GenNov\PROYECTOS\P0601_WCF\Backend\P06R01_WCF_V1\ClienteWCF\obj\Debug\ClienteWCF.exe
+C:\proyects\GenNov\PROYECTOS\P0601_WCF\Backend\P06R01_WCF_V1\ClienteWCF\obj\Debug\ClienteWCF.pdb
